@@ -1,5 +1,14 @@
 # 💫 About Me:
-AI/ML enthusiast and startup explorer passionate about building <br>intelligent systems using Machine Learning and Generative AI. <br>I enjoy working on real-world projects involving Computer Vision,<br>NLP, RAG applications, and interactive ML web apps.<br>Always learning, experimenting, and turning ideas<br>into impactful solutions.
+
+I enjoy building things that sit at the intersection of AI, data, and real-world impact.
+
+Most of my projects start with a simple question: *"Can this process be made smarter?"* Sometimes that leads to AI-powered healthcare solutions, sometimes to intelligent automation systems, and sometimes to applications powered by Generative AI and Agentic AI workflows.
+
+I believe technology is most valuable when it solves practical problems for real people. That's why I spend less time collecting certificates and more time turning ideas into working products.
+
+Currently exploring Generative AI, Agentic AI, Python backend development, data-driven applications, and scalable intelligent systems.
+
+Always building. Always learning. Always shipping.
 
 
 ## 🌐 Socials:
